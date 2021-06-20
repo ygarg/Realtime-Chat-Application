@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
     "start": "node server.js"
   },
-  "author": "Harry",
+  "author": "Yash",
   "license": "ISC",
   "dependencies": {
     "socket.io": "^2.3.0"
